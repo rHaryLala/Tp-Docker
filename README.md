@@ -32,6 +32,8 @@ cd Tp-Docker
 ```bash
 docker build -t tp-docker .
 ```
+![Copie d'écran_20250520_062705](https://github.com/user-attachments/assets/435a1d9d-de4f-49fa-8edc-5738e82ab67a)
+
 
 ### 3. Lancer le conteneur
 
