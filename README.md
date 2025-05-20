@@ -5,7 +5,7 @@ Une application Node.js basique avec Express, empaquetée et exécutée dans un 
 ## 📁 Structure du projet
 
 ```
-express-docker-app/
+tp-docker/
 ├── Dockerfile
 ├── index.js
 ├── package.json
@@ -23,8 +23,8 @@ express-docker-app/
 ### 1. Cloner le projet
 
 ```bash
-git clone <lien-du-repo>
-cd express-docker-app
+git clone [<lien-du-repo>](https://github.com/rHaryLala/Tp-Docker)
+cd Tp-Docker
 ```
 
 ### 2. Construire l'image Docker
